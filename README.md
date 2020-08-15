@@ -7,7 +7,7 @@ Note: Github does not show graphics and plots you can check out the Notebook lin
 
 
 <p><b>2. Battle of the Neighbourhoods</b><br>
-Its an attempt to study and cluster the neighbourhoods of Toronto, Canada based on various factors like nearby Hosptitals, Schools, Parks, Shopping malls and Banks.<br>
+Its an attempt to study the relationship between dwellings/populations and various features (such as,nearby Hospitals, Schools, Shopping Malls, Parks & Banks) of the neighborhood of Toronto, Canada.<br>
 <a href="https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/cac598f2-7e46-48c4-99f7-5e7bdb6c473b/view?access_token=ae26563b9bc4b63e9d016d89829096ecfa04fa1c3a2d7da60362f1db72bf69b9">Notebook</a>
 </p>
 
