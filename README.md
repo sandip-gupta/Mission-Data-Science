@@ -1,7 +1,10 @@
 # Mission-Data-Science
 <p>As a part of journey to learn Data Science, I plan to take up new projects and assignments, use this repo to showcase.<br>
+Feedbacks are welcome!!!
 Note: Github does not show graphics and plots you can check out the Notebook links.<br>
 </p>  
+
+
 
 <p><b>2. Battle of the Neighbourhoods</b><br>
 Its an attempt to study and cluster the neighbourhoods of Toronto, Canada based on various factors like nearby Hosptitals, Schools, Parks, Shopping malls and Banks.<br>
